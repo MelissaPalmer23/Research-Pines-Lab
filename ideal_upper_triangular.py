@@ -142,5 +142,5 @@ def ideal_upper_triangular(N):
 
 
 #Here is running your function
-y=ideal_upper_triangular(8)
+y=ideal_upper_triangular()
 print(y)
